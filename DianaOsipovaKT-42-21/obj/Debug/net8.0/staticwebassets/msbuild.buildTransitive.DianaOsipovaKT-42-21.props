@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DianaOsipovaKT-42-21.props" />
+</Project>
