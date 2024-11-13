@@ -1,4 +1,4 @@
-﻿using DianaOsipovaKT_42_21.Interfaces.WorkloadInterfaces;
+﻿using DianaOsipovaKT_42_21.Interfaces.WorkloadsInterfaces;
 using DianaOsipovaKT_42_21.Filters;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -20,9 +20,9 @@ namespace DianaOsipovaKT_42_21.Controllers
         }
 
         [HttpPost("GetWorkloadByProfessor")]
-        public async Task<IActionResult> GetWorkloadAsync(WorkloadFilterProfessor filter, CancellationToken cancellationToken = default)
+        public async Task<IActionResult> GetWorkloadAsync(WorkloadProfessorFilter filter, CancellationToken cancellationToken = default)
         {
-            var resp = await _workloadService.GetWorkloadAsync(filter, cancellationToken);
+            var resp = await _workloadService.GetWorkloadByProfessorAsync(filter, cancellationToken);
 
             return Ok(resp);
         }

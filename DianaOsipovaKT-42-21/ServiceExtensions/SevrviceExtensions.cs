@@ -1,4 +1,4 @@
-﻿using DianaOsipovaKT_42_21.Interfaces.WorkloadInterfaces;
+﻿using DianaOsipovaKT_42_21.Interfaces.WorkloadsInterfaces;
 namespace DianaOsipovaKT_42_21.ServiceExtensions
 {
     public static class SevrviceExtensions
