@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DianaOsipovaKT-42-21")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+242de62ec3ee01b221877f564de2b49b585d2eb2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e14171005a8cd0c00404736b273b00e058532a19")]
 [assembly: System.Reflection.AssemblyProductAttribute("DianaOsipovaKT-42-21")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DianaOsipovaKT-42-21")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
