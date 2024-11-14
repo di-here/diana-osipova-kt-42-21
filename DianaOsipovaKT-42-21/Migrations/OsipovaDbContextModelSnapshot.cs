@@ -54,6 +54,11 @@ namespace DianaOsipovaKT_42_21.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("Age")
+                        .HasColumnType("int")
+                        .HasColumnName("Age")
+                        .HasComment("Возраст преподавателя");
+
                     b.Property<string>("FirstName")
                         .IsRequired()
                         .HasMaxLength(100)

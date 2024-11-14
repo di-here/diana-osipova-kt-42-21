@@ -34,6 +34,11 @@ namespace DianaOsipovaKT_42_21.Database.Configurations
                 .HasColumnType(ColumnType.String).HasMaxLength(100)
                 .HasComment("Отчество преподавателя");
             builder.ToTable(TableName);
+            builder.Property(e => e.Age)
+                .IsRequired()
+                .HasColumnName("Age")
+                .HasColumnType(ColumnType.Int)
+                .HasComment("Возраст преподавателя");
         }
     }
 }

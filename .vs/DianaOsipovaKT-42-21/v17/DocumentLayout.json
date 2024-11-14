@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|c:\\users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\dianaosipovakt-42-21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|solutionrelative:dianaosipovakt-42-21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{289F3739-A9E5-4838-B793-33388B03E00F}|DianaOsipovaKT-42-21.Tests\\DianaOsipovaKT-42-21.Tests.csproj|c:\\users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\dianaosipovakt-42-21.tests\\professorintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289F3739-A9E5-4838-B793-33388B03E00F}|DianaOsipovaKT-42-21.Tests\\DianaOsipovaKT-42-21.Tests.csproj|solutionrelative:dianaosipovakt-42-21.tests\\professorintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|c:\\users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\dianaosipovakt-42-21\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|solutionrelative:dianaosipovakt-42-21\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{289F3739-A9E5-4838-B793-33388B03E00F}|DianaOsipovaKT-42-21.Tests\\DianaOsipovaKT-42-21.Tests.csproj|c:\\users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\dianaosipovakt-42-21.tests\\professortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289F3739-A9E5-4838-B793-33388B03E00F}|DianaOsipovaKT-42-21.Tests\\DianaOsipovaKT-42-21.Tests.csproj|solutionrelative:dianaosipovakt-42-21.tests\\professortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|c:\\users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\dianaosipovakt-42-21\\models\\educationalsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|solutionrelative:dianaosipovakt-42-21\\models\\educationalsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|c:\\users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\dianaosipovakt-42-21\\serviceextensions\\sevrviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|solutionrelative:dianaosipovakt-42-21\\serviceextensions\\sevrviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|c:\\users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\dianaosipovakt-42-21\\interfaces\\workloadsinterfaces\\iworkloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|solutionrelative:dianaosipovakt-42-21\\interfaces\\workloadsinterfaces\\iworkloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWorkloadService.cs",
+              "DocumentMoniker": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Interfaces\\WorkloadsInterfaces\\IWorkloadService.cs",
+              "RelativeDocumentMoniker": "DianaOsipovaKT-42-21\\Interfaces\\WorkloadsInterfaces\\IWorkloadService.cs",
+              "ToolTip": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Interfaces\\WorkloadsInterfaces\\IWorkloadService.cs",
+              "RelativeToolTip": "DianaOsipovaKT-42-21\\Interfaces\\WorkloadsInterfaces\\IWorkloadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:11:37.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfessorIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21.Tests\\ProfessorIntegrationTests.cs",
+              "RelativeDocumentMoniker": "DianaOsipovaKT-42-21.Tests\\ProfessorIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21.Tests\\ProfessorIntegrationTests.cs",
+              "RelativeToolTip": "DianaOsipovaKT-42-21.Tests\\ProfessorIntegrationTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:56:40.983Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -46,58 +68,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Program.cs",
-              "RelativeDocumentMoniker": "DianaOsipovaKT-42-21\\Program.cs",
-              "ToolTip": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Program.cs",
-              "RelativeToolTip": "DianaOsipovaKT-42-21\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T14:21:22.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EducationalSubject.cs",
-              "DocumentMoniker": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Models\\EducationalSubject.cs",
-              "RelativeDocumentMoniker": "DianaOsipovaKT-42-21\\Models\\EducationalSubject.cs",
-              "ToolTip": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Models\\EducationalSubject.cs",
-              "RelativeToolTip": "DianaOsipovaKT-42-21\\Models\\EducationalSubject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T14:20:46.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ExceptionHandlerMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Middlewares\\ExceptionHandlerMiddleware.cs",
-              "RelativeDocumentMoniker": "DianaOsipovaKT-42-21\\Middlewares\\ExceptionHandlerMiddleware.cs",
-              "ToolTip": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Middlewares\\ExceptionHandlerMiddleware.cs",
-              "RelativeToolTip": "DianaOsipovaKT-42-21\\Middlewares\\ExceptionHandlerMiddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Title": "ProfessorTests.cs",
+              "DocumentMoniker": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21.Tests\\ProfessorTests.cs",
+              "RelativeDocumentMoniker": "DianaOsipovaKT-42-21.Tests\\ProfessorTests.cs",
+              "ToolTip": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21.Tests\\ProfessorTests.cs",
+              "RelativeToolTip": "DianaOsipovaKT-42-21.Tests\\ProfessorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T14:20:32.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SevrviceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\ServiceExtensions\\SevrviceExtensions.cs",
-              "RelativeDocumentMoniker": "DianaOsipovaKT-42-21\\ServiceExtensions\\SevrviceExtensions.cs",
-              "ToolTip": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\ServiceExtensions\\SevrviceExtensions.cs",
-              "RelativeToolTip": "DianaOsipovaKT-42-21\\ServiceExtensions\\SevrviceExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T20:02:19.652Z",
+              "WhenOpened": "2024-11-14T17:56:23.724Z",
               "EditorCaption": ""
             }
           ]

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8HaDOjX8SlOKhF0GgpZjUu300TLYzXP1RjyRXIoocNGkR3qohQkpGzXk5S8ftSrboWTIOAxN9WVtkFXEQtVibQ==",
+  "dgSpecHash": "c/XB2+7y8IQQ/10lwfq3uPF1iKR9oswJQwQ+z2oHOuTimeqTZs8IIFO2OvtF7XP2M+F6iCCXKoG5sVc4/v4FSg==",
   "success": true,
   "projectFilePath": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "C:\\Users\\nakot\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\nakot\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.0\\microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
     "C:\\Users\\nakot\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.0\\microsoft.entityframeworkcore.design.8.0.0.nupkg.sha512",
+    "C:\\Users\\nakot\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.0\\microsoft.entityframeworkcore.inmemory.8.0.0.nupkg.sha512",
     "C:\\Users\\nakot\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.0\\microsoft.entityframeworkcore.relational.8.0.0.nupkg.sha512",
     "C:\\Users\\nakot\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.0\\microsoft.entityframeworkcore.sqlserver.8.0.0.nupkg.sha512",
     "C:\\Users\\nakot\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.0\\microsoft.entityframeworkcore.tools.8.0.0.nupkg.sha512",
