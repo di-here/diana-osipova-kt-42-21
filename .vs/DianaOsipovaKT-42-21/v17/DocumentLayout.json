@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|c:\\users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\dianaosipovakt-42-21\\interfaces\\workloadsinterfaces\\iworkloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|solutionrelative:dianaosipovakt-42-21\\interfaces\\workloadsinterfaces\\iworkloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|c:\\users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\dianaosipovakt-42-21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|solutionrelative:dianaosipovakt-42-21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|c:\\users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\dianaosipovakt-42-21\\filters\\workloadprofessorfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|solutionrelative:dianaosipovakt-42-21\\filters\\workloadprofessorfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|c:\\users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\dianaosipovakt-42-21\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|solutionrelative:dianaosipovakt-42-21\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|c:\\users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\dianaosipovakt-42-21\\models\\educationalsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|solutionrelative:dianaosipovakt-42-21\\models\\educationalsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C567B20-6266-451F-8912-5F719BEB985A}|DianaOsipovaKT-42-21\\DianaOsipovaKT-42-21.csproj|c:\\users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\dianaosipovakt-42-21\\serviceextensions\\sevrviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,39 +46,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WorkloadProfessorFilter.cs",
-              "DocumentMoniker": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Filters\\WorkloadProfessorFilter.cs",
-              "RelativeDocumentMoniker": "DianaOsipovaKT-42-21\\Filters\\WorkloadProfessorFilter.cs",
-              "ToolTip": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Filters\\WorkloadProfessorFilter.cs",
-              "RelativeToolTip": "DianaOsipovaKT-42-21\\Filters\\WorkloadProfessorFilter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T20:28:12.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IWorkloadService.cs",
-              "DocumentMoniker": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Interfaces\\WorkloadsInterfaces\\IWorkloadService.cs",
-              "RelativeDocumentMoniker": "DianaOsipovaKT-42-21\\Interfaces\\WorkloadsInterfaces\\IWorkloadService.cs",
-              "ToolTip": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Interfaces\\WorkloadsInterfaces\\IWorkloadService.cs",
-              "RelativeToolTip": "DianaOsipovaKT-42-21\\Interfaces\\WorkloadsInterfaces\\IWorkloadService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Program.cs",
+              "RelativeDocumentMoniker": "DianaOsipovaKT-42-21\\Program.cs",
+              "ToolTip": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Program.cs",
+              "RelativeToolTip": "DianaOsipovaKT-42-21\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T20:24:57.349Z",
+              "WhenOpened": "2024-11-14T14:21:22.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "EducationalSubject.cs",
+              "DocumentMoniker": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Models\\EducationalSubject.cs",
+              "RelativeDocumentMoniker": "DianaOsipovaKT-42-21\\Models\\EducationalSubject.cs",
+              "ToolTip": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Models\\EducationalSubject.cs",
+              "RelativeToolTip": "DianaOsipovaKT-42-21\\Models\\EducationalSubject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:20:46.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "DianaOsipovaKT-42-21\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "DianaOsipovaKT-42-21\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:20:32.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SevrviceExtensions.cs",
               "DocumentMoniker": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\ServiceExtensions\\SevrviceExtensions.cs",
               "RelativeDocumentMoniker": "DianaOsipovaKT-42-21\\ServiceExtensions\\SevrviceExtensions.cs",
               "ToolTip": "C:\\Users\\nakot\\source\\repos\\diana-osipova-kt-42-21\\DianaOsipovaKT-42-21\\ServiceExtensions\\SevrviceExtensions.cs",
               "RelativeToolTip": "DianaOsipovaKT-42-21\\ServiceExtensions\\SevrviceExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T20:02:19.652Z",
               "EditorCaption": ""
